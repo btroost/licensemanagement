@@ -17,7 +17,7 @@ with app.test_request_context():
 
     #############################################
     # code to combine various license files
-    #c1.code1()
+    c1.code1()
     #############################################
 
     #alternative code:
@@ -27,4 +27,4 @@ with app.test_request_context():
 
     # This code reads a series of DSLS logfiles and returns structured usage data
     # Return is a csv files
-    c2.code4()
+    #c2.code4()

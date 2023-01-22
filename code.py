@@ -24,9 +24,13 @@ def code1():
     #    data = openfile2("DSLS-Authorization_rules--userbased2.xml")
 
     #** Get datafiles
-    GlobalTagetID="KKZ-42661C6F695667C0"  # ="FSN-42A8108E79C537A0"  #YQH-417A141F1334DB30"  #GlobalTagetID
-    Assets ="Licenties - 19 augustus-mod.csv"  #DassaultLicenses.csv"
-    LicenseKeys="License Key LKO2071370 Details.txt" #License Key LKO2072356 Details.txt"  #License Key LKO2037228 Details.txt"
+    GlobalTagetID="KKZ-42661C6F695667C0"  # ="FSN-42A8108E79C537A0"
+    sep = ";"
+
+    Assets ="in_test/Licenties - 19 augustus-mod.csv"  #DassaultLicenses.csv"
+    AssetsOut ="out/Licenties - 19 augustus-mod_out.csv"  #DassaultLicenses.csv"
+    LicenseKeys="in_test/License Key LKO2071370 Details.txt" #License Key LKO2072356 Details.txt"  #License Key LKO2037228 Details.txt"
+    LicenseKeysOut="out/License Key LKO2071370 Details_out.csv" #License Key LKO2072356 Details.txt"  #License Key LKO2037228 Details.txt"
 
 
     data=[]
@@ -41,46 +45,44 @@ def code1():
     #data.append(processacl(data))
 
     #***** create combined tables *****#
+    debug = False
+    if debug:
 
-    # ***** Print results *****#
-    #    for set in data:
-    #        print("***** New list, length = " + str(len(set)) + " *****")
-    #        for row in set:
-    #            print (row)
+        # ***** Print results *****#
+        #    for set in data:
+        #        print("***** New list, length = " + str(len(set)) + " *****")
+        #        for row in set:
+        #            print (row)
 
-    dataset=2
-    print("***** Specific list, length = " + str(len(data[dataset])) + " *****")
-    for row in data[dataset]:
-            print(row)
-    dataset=3
-    print("***** Specific list, length = " + str(len(data[dataset])) + " *****")
-    for row in data[dataset]:
-            print(row)
+        dataset=2
+        print("***** Specific list, length = " + str(len(data[dataset])) + " *****")
+        for row in data[dataset]:
+                print(row)
+        dataset=3
+        print("***** Specific list, length = " + str(len(data[dataset])) + " *****")
+        for row in data[dataset]:
+                print(row)
 
-    outputfile = open(Assets+"_out.csv", "w")
+
+    outputfile = open(AssetsOut, "w")
     for row in data[2]:
         for element in row:
             outputfile.write(element)
-            outputfile.write(";")
+            outputfile.write(sep)
         outputfile.write("\n")
     outputfile.close()
+    print ("OutputFile: " +outputfile.name)
 
-    outputfile = open(LicenseKeys+"_out.csv", "w")
+    outputfile = open(LicenseKeysOut, "w")
     for row in data[3]:
         for element in row:
             outputfile.write(element)
-            outputfile.write(";")
+            outputfile.write(sep)
         outputfile.write("\n")
     outputfile.close()
+    print ("OutputFile: " +outputfile.name)
 
-
-#        print (row[0] + "   " + row[2]+ "   " + row[3]+ "   " + row[4]+ "   " + row[5]+ "   " + row[17])
-
-#    dataset=3
-#    print("***** Specific list, length = " + str(len(data[dataset])) + " *****")
-#    for row in data[dataset]:
-#        print (row)
-
+    print("Finished")
 
 def openassets(filein):
     data=[]
