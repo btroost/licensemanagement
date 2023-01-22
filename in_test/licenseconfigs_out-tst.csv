@@ -1,0 +1,165 @@
+LIV (Configuration)CGE CHT VPM;1
+CFE (Named User);40
+DTE (System);1
+PGE (Named User);40
+LIB (Named User);40
+CPF (Named User);50
+ST1 (Shareable);1
+CPF (Named User);42
+LIV (Configuration)CGE CHT DASMS-BASE MDE SUR VPM;4
+LIV (Configuration)AFE CGE CHT DASMS-BASE DVA MDE SFE SUR VPM;1
+LIV (Configuration)CGE CHT DASMS-BASE EHD FSR MDE SUR VPM;1
+LIV (Configuration)AFE CGE CHT DASMS-AF DVA MDE SFE STA SUR VPM;2
+LBC (Named User);1
+RPT (Named User);15
+CPF (Named User);1
+CD5 (Named User);30
+ENG (Named User);18
+FCS (System);4
+TOL (Shareable);1
+DEC (Named User);41
+RDV (Configuration);1
+LIV (Configuration)VMX VPM VSC;1
+FSR (Shareable);1
+CPF (Named User);4
+LIV (Configuration);17
+APE (Named User);17
+CPF (Named User);17
+EXC (Named User);17
+LIB (Named User);17
+CD5 (Named User);16
+DEC (Named User);16
+CSV (Named User);15
+IFW (Named User);15
+CSV (Named User);34
+IFW (Named User);34
+EXH (Named User);4
+CCM (Named User);3
+UE5 (Named User);34
+TXO (Named User);3
+LIB (Named User);2
+PGE (Named User);2
+CPF (Named User);2
+CFE (Named User);2
+LIV (Configuration)CGE CHT DASMS-BASE MDE SUR VPM;2
+FSR (Shareable);1
+LIV (Configuration)AFE CGE CHT DASMS-BASE DVA MDE SFE SUR VPM;4
+QXT (Token-Based);8
+QAX (Shareable);1
+QAX (Shareable);1
+QXT (Token-Based);6
+QAX (Shareable);1
+QCI (Shareable);1
+QXT (Token-Based);18
+QAX (Shareable);1
+QXT (Token-Based);6
+QAE (Shareable);1
+HD2 (Configuration)FS1 KT1;1
+DM1 (Configuration);1
+SL3 (Configuration)FS1 GSD KT1;5
+WL2 (Configuration)OLP;1
+SPA (Shareable);1
+RE2 (Configuration)FSP;1
+HD2 (Configuration)AMG FS1 KT1 LMG NCG NVG;17
+MD2 (Configuration);1
+HD2 (Configuration)FS1 KT1 ZOH ZOM;2
+HD2 (Configuration)FS1 GAS GPS KT1 SH1 SMD ZOM;1
+MD2 (Configuration);19
+MD2 (Configuration);1
+CWI (Shareable);7
+CD3 (Configuration)FS1 KT1;6
+SMD (Shareable);2
+ST1 (Shareable);2
+DM1 (Configuration);21
+HD2 (Configuration)FS1 KT1;40
+CT5 (Named User);30
+DCI (Named User);30
+HD2 (Configuration)FS1 GAS GPS KT1 SH1 SMD ZOE ZOM;1
+EWE (Shareable);1
+DL1 (Shareable);2
+PHS (Shareable);1
+DMN (Shareable);1
+GSO (Shareable);1
+PX1 (Shareable);5
+FTA (Shareable);7
+DM1 (Configuration);1
+ST1 (Shareable);1
+DM1 (Configuration);3
+SPA (Shareable);1
+HD2 (Configuration)FS1 KT1;2
+HD2 (Configuration)FS1 KT1 ZOL-A;5
+CT5 (Named User);16
+DCI (Named User);16
+KIN (Shareable);1
+HD2 (Configuration)AMG FS1 KT1 LMG NCG NVG;2
+CD3 (Configuration)FS1 KT1;1
+HD2 (Configuration)FS1 KT1;3
+SMD (Shareable);1
+DM1 (Configuration);5
+HD2 (Configuration)FS1 KT1;7
+DM1 (Configuration);3
+FTA (Shareable);1
+FTA (Shareable);4
+MD2 (Configuration)EHF EHI ELB FS1 GAS GPS GSD SH1 SMD SPA ST1;1
+MD2 (Configuration)EHF EHI ELB FS1 GAS GPS GSD SH1 SMD SPA;3
+PX1 (Shareable);3
+TS9 (Shareable);1
+TC9 (Shareable);1
+WFL (Shareable);5
+CAI (Shareable);34
+EI2 (Configuration)EHF;19
+KWA (Shareable);1
+KT1 (Shareable);1
+EDR (Shareable);49
+FDN (Shareable);49
+SEE (Shareable);1
+EWE (Shareable);1
+MPG (Shareable);2
+STL (Shareable);2
+CLA (Shareable);1
+CFM (Shareable);1
+VT2 (Configuration);6
+MK1 (Shareable);1
+CD3 (Configuration)FS1 KT1;5
+CD3 (Configuration)FS1 KT1;10
+WL2 (Configuration)GTS OLP;2
+CDC (Configuration);1
+HD2 (Configuration)FS1 KT1 ZSK;1
+ST1 (Shareable);2
+CCD (Single Add-On);1
+DM1 (Configuration);10
+SL3 (Configuration)FS1 GSD KT1;2
+MP2 (Configuration)MNV MPR MPS MSA;2
+DM2 (Configuration);1
+HD2 (Configuration)AMG FS1 KT1 LMG NCG NVG;8
+HD2 (Configuration)FS1 KT1;5
+HD2 (Configuration)AMG FS1 KT1 LMG NCG NVG;9
+PX1 (Shareable);3
+HD2 (Configuration)FS1 KT1;61
+FIT (Shareable);1
+TUB (Shareable);2
+DSE (Shareable);1
+FTA (Shareable);8
+PHS (Shareable);1
+DL1 (Shareable);2
+KIN (Shareable);3
+DMN (Shareable);3
+QSR (Shareable);1
+SR1 (Shareable);4
+GAS (Shareable);1
+HD2 (Configuration)AMG FS1 KT1 LMG NCG NVG;3
+ST1 (Shareable);2
+CD3 (Configuration)FS1 KT1;4
+MP2 (Configuration)MNV MPR MPS MSA;1
+HD2 (Configuration)FS1 KT1 ZOE;2
+GPS (Shareable);1
+CPR (Shareable);1
+CCD (Single Add-On);2
+HD2 (Configuration)AMG FS1 KT1 LMG NCG NVG;1
+CD3 (Configuration)FS1 KT1;2
+HD2 (Configuration)AMG FS1 KT1 LMG NCG NVG;1
+HD2 (Configuration)FS1 KT1;2
+MD1 (Configuration);1
+FTA (Shareable);1
+FTA (Shareable);1
+HD2 (Configuration)FS1 KT1 ZOH;1

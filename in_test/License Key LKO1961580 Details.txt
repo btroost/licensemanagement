@@ -1,0 +1,1443 @@
+
+   Certificate: YQH-417A141F1334DB30_BA18O-N0IL1-H8QQH-NZHBU-TLV2K_0011_1.LICZ   Portfolio   CATIA V5 
+    Release   V5R20 
+    Configurations&amp;Products   SL3 (Configuration)FS1 GSD KT1 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-05-19 
+    Expiration Date   2023-06-11 
+    Quantity   5 
+    AdditionalInformation   N/A 
+    SerialNumber   BA18O-N0IL1-H8QQH-NZHBU-TLV2K 
+   
+
+   Certificate: YQH-417A141F1334DB30_BA18O-N0IL1-H8QQH-NZHBU-TLV2K_0011_1.LICZ   Portfolio   DELMIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   WL2 (Configuration)OLP 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-05-19 
+    Expiration Date   2023-06-11 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   BA18O-N0IL1-H8QQH-NZHBU-TLV2K 
+   
+
+   Certificate: YQH-417A141F1334DB30_BA18O-N0IL1-H8QQH-NZHBU-TLV2K_0011_1.LICZ   Portfolio   CATIA V5 
+    Release   V5R21 
+    Configurations&amp;Products   EWE (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-05-19 
+    Expiration Date   2023-06-11 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   BA18O-N0IL1-H8QQH-NZHBU-TLV2K 
+   
+
+   Certificate: YQH-417A141F1334DB30_BA18O-N0IL1-H8QQH-NZHBU-TLV2K_0011_1.LICZ   Portfolio   CATIA / ENOVIA DMU 
+    Release   V5R20 
+    Configurations&amp;Products   PHS (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-05-19 
+    Expiration Date   2023-06-11 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   BA18O-N0IL1-H8QQH-NZHBU-TLV2K 
+   
+
+   Certificate: YQH-417A141F1334DB30_BA18O-N0IL1-H8QQH-NZHBU-TLV2K_0011_1.LICZ   Portfolio   CATIA / ENOVIA DMU 
+    Release   V5R20 
+    Configurations&amp;Products   SPA (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-05-19 
+    Expiration Date   2023-06-11 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   BA18O-N0IL1-H8QQH-NZHBU-TLV2K 
+   
+
+   Certificate: YQH-417A141F1334DB30_BA18O-N0IL1-H8QQH-NZHBU-TLV2K_0011_1.LICZ   Portfolio   CATIA V5 
+    Release   V5R20 
+    Configurations&amp;Products   RE2 (Configuration)FSP 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-05-19 
+    Expiration Date   2023-06-11 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   BA18O-N0IL1-H8QQH-NZHBU-TLV2K 
+   
+
+   Certificate: YQH-417A141F1334DB30_BA18O-N0IL1-H8QQH-NZHBU-TLV2K_0011_1.LICZ   Portfolio   CATIA V5 
+    Release   V5R20 
+    Configurations&amp;Products   DMN (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-05-19 
+    Expiration Date   2023-06-11 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   BA18O-N0IL1-H8QQH-NZHBU-TLV2K 
+   
+
+   Certificate: YQH-417A141F1334DB30_BA18O-N0IL1-H8QQH-NZHBU-TLV2K_0011_1.LICZ   Portfolio   CATIA V5 
+    Release   V5R20 
+    Configurations&amp;Products   DL1 (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-05-19 
+    Expiration Date   2023-06-11 
+    Quantity   2 
+    AdditionalInformation   N/A 
+    SerialNumber   BA18O-N0IL1-H8QQH-NZHBU-TLV2K 
+   
+
+   Certificate: YQH-417A141F1334DB30_BA18O-N0IL1-H8QQH-NZHBU-TLV2K_0011_1.LICZ   Portfolio   CATIA V5 
+    Release   V5R20 
+    Configurations&amp;Products   PX1 (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-05-19 
+    Expiration Date   2023-06-11 
+    Quantity   10 
+    AdditionalInformation   N/A 
+    SerialNumber   BA18O-N0IL1-H8QQH-NZHBU-TLV2K 
+   
+
+   Certificate: YQH-417A141F1334DB30_BA18O-N0IL1-H8QQH-NZHBU-TLV2K_0011_1.LICZ   Portfolio   CATIA V5 
+    Release   V5R21 
+    Configurations&amp;Products   GSO (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-05-19 
+    Expiration Date   2023-06-11 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   BA18O-N0IL1-H8QQH-NZHBU-TLV2K 
+   
+
+   Certificate: YQH-417A141F1334DB30_BA18O-N0IL1-H8QQH-NZHBU-TLV2K_0011_1.LICZ   Portfolio   ENOVIA V6 
+    Release   V6R2013x 
+    Configurations&amp;Products   CT5 (Named User) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-05-19 
+    Expiration Date   2023-06-11 
+    Quantity   30 
+    AdditionalInformation   N/A 
+    SerialNumber   BA18O-N0IL1-H8QQH-NZHBU-TLV2K 
+   
+
+   Certificate: YQH-417A141F1334DB30_BA18O-N0IL1-H8QQH-NZHBU-TLV2K_0011_1.LICZ   Portfolio   ENOVIA V6 
+    Release   V6R2013x 
+    Configurations&amp;Products   DCI (Named User) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-05-19 
+    Expiration Date   2023-06-11 
+    Quantity   30 
+    AdditionalInformation   N/A 
+    SerialNumber   BA18O-N0IL1-H8QQH-NZHBU-TLV2K 
+   
+
+   Certificate: YQH-417A141F1334DB30_BA18O-N0IL1-H8QQH-NZHBU-TLV2K_0011_1.LICZ   Portfolio   CATIA V5 
+    Release   V5R20 
+    Configurations&amp;Products   HD2 (Configuration)AMG FS1 KT1 LMG NCG NVG 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-05-19 
+    Expiration Date   2023-06-11 
+    Quantity   17 
+    AdditionalInformation   N/A 
+    SerialNumber   BA18O-N0IL1-H8QQH-NZHBU-TLV2K 
+   
+
+   Certificate: YQH-417A141F1334DB30_BA18O-N0IL1-H8QQH-NZHBU-TLV2K_0011_1.LICZ   Portfolio   CATIA V5 
+    Release   V5R20 
+    Configurations&amp;Products   MD2 (Configuration) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-06-02 
+    Expiration Date   2023-06-11 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   BA18O-N0IL1-H8QQH-NZHBU-TLV2K 
+   
+
+   Certificate: YQH-417A141F1334DB30_BA18O-N0IL1-H8QQH-NZHBU-TLV2K_0011_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2021 
+    Configurations&amp;Products   HD2 (Configuration) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-06-02 
+    Expiration Date   2023-06-11 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   BA18O-N0IL1-H8QQH-NZHBU-TLV2K 
+   
+
+   Certificate: YQH-417A141F1334DB30_BA18O-N0IL1-H8QQH-NZHBU-TLV2K_0011_1.LICZ   Portfolio   CATIA V5 
+    Release   V5R20 
+    Configurations&amp;Products   HD2 (Configuration)FS1 KT1 ZOH ZOM 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-06-02 
+    Expiration Date   2023-06-11 
+    Quantity   2 
+    AdditionalInformation   N/A 
+    SerialNumber   BA18O-N0IL1-H8QQH-NZHBU-TLV2K 
+   
+
+   Certificate: YQH-417A141F1334DB30_BA18O-N0IL1-H8QQH-NZHBU-TLV2K_0011_1.LICZ   Portfolio   CATIA V5 
+    Release   V5R20 
+    Configurations&amp;Products   MD2 (Configuration) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-06-03 
+    Expiration Date   2023-06-11 
+    Quantity   19 
+    AdditionalInformation   N/A 
+    SerialNumber   BA18O-N0IL1-H8QQH-NZHBU-TLV2K 
+   
+
+   Certificate: YQH-417A141F1334DB30_BA18O-N0IL1-H8QQH-NZHBU-TLV2K_0011_1.LICZ   Portfolio   CATIA V5 
+    Release   V5R20 
+    Configurations&amp;Products   HD2 (Configuration)FS1 GAS GPS KT1 SH1 SMD ZOM 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-06-03 
+    Expiration Date   2023-06-11 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   BA18O-N0IL1-H8QQH-NZHBU-TLV2K 
+   
+
+   Certificate: YQH-417A141F1334DB30_BA18O-N0IL1-H8QQH-NZHBU-TLV2K_0011_1.LICZ   Portfolio   CATIA V5 
+    Release   V5R21 
+    Configurations&amp;Products   MD2 (Configuration) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-06-06 
+    Expiration Date   2023-06-11 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   BA18O-N0IL1-H8QQH-NZHBU-TLV2K 
+   
+
+   Certificate: YQH-417A141F1334DB30_BA18O-N0IL1-H8QQH-NZHBU-TLV2K_0011_1.LICZ   Portfolio   CATIA V5 
+    Release   V5R20 
+    Configurations&amp;Products   HD2 (Configuration)DL1 FS1 GAS GPS KT1 SH1 SMD ZOE ZOM 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-06-06 
+    Expiration Date   2023-06-11 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   BA18O-N0IL1-H8QQH-NZHBU-TLV2K 
+   
+
+   Certificate: YQH-417A141F1334DB30_BA18O-N0IL1-H8QQH-NZHBU-TLV2K_0011_1.LICZ   Portfolio   ENOVIA SmarTeam V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   CWI (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-06-13 
+    Expiration Date   2023-06-11 
+    Quantity   7 
+    AdditionalInformation   N/A 
+    SerialNumber   BA18O-N0IL1-H8QQH-NZHBU-TLV2K 
+   
+
+   Certificate: YQH-417A141F1334DB30_BA18O-N0IL1-H8QQH-NZHBU-TLV2K_0011_1.LICZ   Portfolio   CATIA V5 
+    Release   V5R20 
+    Configurations&amp;Products   CD3 (Configuration)FS1 KT1 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-09-21 
+    Expiration Date   2023-06-11 
+    Quantity   6 
+    AdditionalInformation   N/A 
+    SerialNumber   BA18O-N0IL1-H8QQH-NZHBU-TLV2K 
+   
+
+   Certificate: YQH-417A141F1334DB30_BA18O-N0IL1-H8QQH-NZHBU-TLV2K_0011_1.LICZ   Portfolio   CATIA V5 
+    Release   V5R20 
+    Configurations&amp;Products   SMD (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-09-21 
+    Expiration Date   2023-06-11 
+    Quantity   2 
+    AdditionalInformation   N/A 
+    SerialNumber   BA18O-N0IL1-H8QQH-NZHBU-TLV2K 
+   
+
+   Certificate: YQH-417A141F1334DB30_BA18O-N0IL1-H8QQH-NZHBU-TLV2K_0011_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2021 
+    Configurations&amp;Products   CCV (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-12-21 
+    Expiration Date   2022-03-21 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   BA18O-N0IL1-H8QQH-NZHBU-TLV2K 
+   
+
+   Certificate: YQH-417A141F1334DB30_BA18O-N0IL1-H8QQH-NZHBU-TLV2K_0011_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2012 
+    Configurations&amp;Products   ST1 (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-12-22 
+    Expiration Date   2023-06-11 
+    Quantity   2 
+    AdditionalInformation   N/A 
+    SerialNumber   BA18O-N0IL1-H8QQH-NZHBU-TLV2K 
+   
+
+   Certificate: YQH-417A141F1334DB30_BA18O-N0IL1-H8QQH-NZHBU-TLV2K_0011_1.LICZ   Portfolio   CATIA V5 
+    Release   V5R20 
+    Configurations&amp;Products   HD2 (Configuration)FS1 KT1 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2022-01-05 
+    Expiration Date   2023-06-11 
+    Quantity   41 
+    AdditionalInformation   N/A 
+    SerialNumber   BA18O-N0IL1-H8QQH-NZHBU-TLV2K 
+   
+
+   Certificate: YQH-417A141F1334DB30_BA18O-N0IL1-H8QQH-NZHBU-TLV2K_0011_1.LICZ   Portfolio   CATIA / ENOVIA DMU 
+    Release   V5R21 
+    Configurations&amp;Products   DM1 (Configuration) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2022-01-05 
+    Expiration Date   2023-06-11 
+    Quantity   23 
+    AdditionalInformation   N/A 
+    SerialNumber   BA18O-N0IL1-H8QQH-NZHBU-TLV2K 
+   
+
+   Certificate: YQH-417A141F1334DB30_BA18O-N0IL1-H8QQH-NZHBU-TLV2K_0011_1.LICZ   Portfolio   CATIA V5 
+    Release   V5R20 
+    Configurations&amp;Products   FTA (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2022-01-05 
+    Expiration Date   2023-06-11 
+    Quantity   7 
+    AdditionalInformation   N/A 
+    SerialNumber   BA18O-N0IL1-H8QQH-NZHBU-TLV2K 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   GAS (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2020-05-31 
+    Expiration Date   2022-06-30 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   HD2 (Configuration)AMG FS1 KT1 LMG NCG NVG 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2020-05-31 
+    Expiration Date   2022-06-30 
+    Quantity   3 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   ST1 (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2020-05-31 
+    Expiration Date   2022-06-30 
+    Quantity   2 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   CD3 (Configuration)FS1 KT1 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2020-05-31 
+    Expiration Date   2022-06-30 
+    Quantity   4 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   DELMIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   MP2 (Configuration)MNV MPR MPS MSA 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2020-05-31 
+    Expiration Date   2022-06-30 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   CD3 (Configuration)FS1 KT1 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2020-05-31 
+    Expiration Date   2022-06-30 
+    Quantity   5 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   PX1 (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2020-05-31 
+    Expiration Date   2022-06-30 
+    Quantity   10 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   CD3 (Configuration)FS1 KT1 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2020-05-31 
+    Expiration Date   2022-06-30 
+    Quantity   10 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   EWE (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2020-05-31 
+    Expiration Date   2022-06-30 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   DELMIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   WL2 (Configuration)GTS OLP 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2020-05-31 
+    Expiration Date   2022-06-30 
+    Quantity   2 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   STL (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2020-05-31 
+    Expiration Date   2022-06-30 
+    Quantity   2 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   MPG (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2020-05-31 
+    Expiration Date   2022-06-30 
+    Quantity   2 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   CAA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   CDC (Configuration) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2020-05-31 
+    Expiration Date   2022-06-30 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   HD2 (Configuration)FS1 KT1 ZSK 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2020-05-31 
+    Expiration Date   2022-06-30 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   ST1 (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2020-05-31 
+    Expiration Date   2022-06-30 
+    Quantity   2 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   DSE (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2020-05-31 
+    Expiration Date   2022-06-30 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   DMN (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2020-05-31 
+    Expiration Date   2022-06-30 
+    Quantity   3 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   CATIA / ENOVIA DMU 
+    Release   V5-6R2018 
+    Configurations&amp;Products   KIN (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2020-05-31 
+    Expiration Date   2022-06-30 
+    Quantity   3 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   GPS (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2020-05-31 
+    Expiration Date   2022-06-30 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   TUB (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2020-05-31 
+    Expiration Date   2022-06-30 
+    Quantity   2 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   SR1 (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2020-05-31 
+    Expiration Date   2022-06-30 
+    Quantity   4 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   CATIA / ENOVIA DMU 
+    Release   V5-6R2018 
+    Configurations&amp;Products   CPR (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2020-05-31 
+    Expiration Date   2022-06-30 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   CATIA / ENOVIA DMU 
+    Release   V5-6R2018 
+    Configurations&amp;Products   PHS (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2020-05-31 
+    Expiration Date   2022-06-30 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   CATIA / ENOVIA DMU 
+    Release   V5-6R2018 
+    Configurations&amp;Products   FIT (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2020-05-31 
+    Expiration Date   2022-06-30 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   DL1 (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2020-05-31 
+    Expiration Date   2022-06-30 
+    Quantity   2 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   QSR (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2020-05-31 
+    Expiration Date   2022-06-30 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   HD2 (Configuration)FS1 KT1 ZOE 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2020-05-31 
+    Expiration Date   2022-06-30 
+    Quantity   2 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   DELMIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   VT2 (Configuration) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2020-05-31 
+    Expiration Date   2022-06-30 
+    Quantity   6 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   CFM (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2020-05-31 
+    Expiration Date   2022-06-30 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   DELMIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   MK1 (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2020-05-31 
+    Expiration Date   2022-06-30 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   HD2 (Configuration)AMG FS1 KT1 LMG NCG NVG 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2020-06-18 
+    Expiration Date   2022-06-30 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   FTA (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2020-08-11 
+    Expiration Date   2022-06-30 
+    Quantity   8 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   CATIA / ENOVIA DMU 
+    Release   V5-6R2018 
+    Configurations&amp;Products   DM1 (Configuration) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2020-08-16 
+    Expiration Date   2022-06-30 
+    Quantity   10 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2020 
+    Configurations&amp;Products   CLA (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2020-09-02 
+    Expiration Date   2022-06-30 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   DELMIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   MP2 (Configuration)MNV MPR MPS MSA 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2021-02-17 
+    Expiration Date   2022-06-30 
+    Quantity   2 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   CATIA / ENOVIA DMU 
+    Release   V5-6R2018 
+    Configurations&amp;Products   DM2 (Configuration) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2021-02-17 
+    Expiration Date   2022-06-30 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   SL3 (Configuration)FS1 GSD KT1 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2021-02-17 
+    Expiration Date   2022-06-30 
+    Quantity   2 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   CCD (Single Add-On) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2021-02-25 
+    Expiration Date   2022-06-30 
+    Quantity   2 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   HD2 (Configuration)AMG FS1 KT1 LMG NCG NVG 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2021-02-25 
+    Expiration Date   2022-06-30 
+    Quantity   8 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   CCD (Single Add-On) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2021-02-25 
+    Expiration Date   2022-06-30 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   HD2 (Configuration)AMG FS1 KT1 LMG NCG NVG 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2021-06-09 
+    Expiration Date   2022-06-30 
+    Quantity   9 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   HD2 (Configuration)FS1 KT1 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2021-10-24 
+    Expiration Date   2022-06-30 
+    Quantity   62 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: QKM-419C1C2B59A73030_2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0_0010_1.LICZ   Portfolio   CATIA V5 
+    Release   V5R21 
+    Configurations&amp;Products   HD2 (Configuration)FS1 KT1 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2022-01-05 
+    Expiration Date   2022-06-30 
+    Quantity   5 
+    AdditionalInformation   N/A 
+    SerialNumber   2K0LQ-USDEJ-A09KV-8NGJV-Q0VI0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   CFM (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2020-05-31 
+    Expiration Date   2022-06-30 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   DELMIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   MK1 (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2021-10-27 
+    Expiration Date   2022-06-30 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   DELMIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   WL2 (Configuration)GTS OLP 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2022-01-04 
+    Expiration Date   2022-06-30 
+    Quantity   2 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   PX1 (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2022-01-04 
+    Expiration Date   2022-06-30 
+    Quantity   10 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   STL (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2022-01-04 
+    Expiration Date   2022-06-30 
+    Quantity   2 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   EWE (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2022-01-04 
+    Expiration Date   2022-06-30 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   DELMIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   VT2 (Configuration) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2022-01-04 
+    Expiration Date   2022-06-30 
+    Quantity   6 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   CATIA / ENOVIA DMU 
+    Release   V5-6R2018 
+    Configurations&amp;Products   FIT (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2022-01-04 
+    Expiration Date   2022-06-30 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   CATIA / ENOVIA DMU 
+    Release   V5-6R2018 
+    Configurations&amp;Products   PHS (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2022-01-04 
+    Expiration Date   2022-06-30 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   CATIA / ENOVIA DMU 
+    Release   V5-6R2018 
+    Configurations&amp;Products   KIN (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2022-01-04 
+    Expiration Date   2022-06-30 
+    Quantity   3 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   HD2 (Configuration)FS1 KT1 ZSK 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2022-01-04 
+    Expiration Date   2022-06-30 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   ST1 (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2022-01-04 
+    Expiration Date   2022-06-30 
+    Quantity   2 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   HD2 (Configuration)AMG FS1 KT1 LMG NCG NVG 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2022-01-04 
+    Expiration Date   2022-06-30 
+    Quantity   3 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   HD2 (Configuration)FS1 KT1 ZOE 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2022-01-04 
+    Expiration Date   2022-06-30 
+    Quantity   2 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   GPS (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2022-01-04 
+    Expiration Date   2022-06-30 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   QSR (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2022-01-04 
+    Expiration Date   2022-06-30 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   HD2 (Configuration)FS1 KT1 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2022-01-04 
+    Expiration Date   2022-06-30 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   HD2 (Configuration)FS1 KT1 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2022-01-04 
+    Expiration Date   2022-06-30 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   FTA (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2022-01-04 
+    Expiration Date   2022-06-30 
+    Quantity   8 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2020 
+    Configurations&amp;Products   CLA (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2022-01-04 
+    Expiration Date   2022-06-30 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   CD3 (Configuration)FS1 KT1 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2022-01-04 
+    Expiration Date   2022-06-30 
+    Quantity   15 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   DMN (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2022-01-04 
+    Expiration Date   2022-06-30 
+    Quantity   3 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   CD3 (Configuration)FS1 KT1 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2022-01-04 
+    Expiration Date   2022-06-30 
+    Quantity   4 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   DL1 (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2022-01-04 
+    Expiration Date   2022-06-30 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   MPG (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2022-01-04 
+    Expiration Date   2022-06-30 
+    Quantity   2 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   GAS (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2022-01-04 
+    Expiration Date   2022-06-30 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   ST1 (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2022-01-04 
+    Expiration Date   2022-06-30 
+    Quantity   2 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   SR1 (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2022-01-04 
+    Expiration Date   2022-06-30 
+    Quantity   4 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   TUB (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2022-01-04 
+    Expiration Date   2022-06-30 
+    Quantity   2 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   DSE (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2022-01-04 
+    Expiration Date   2022-06-30 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   CATIA / ENOVIA DMU 
+    Release   V5-6R2018 
+    Configurations&amp;Products   DM2 (Configuration) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2022-01-04 
+    Expiration Date   2022-06-30 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   SL3 (Configuration)FS1 GSD KT1 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2022-01-04 
+    Expiration Date   2022-06-30 
+    Quantity   2 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   DELMIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   MP2 (Configuration)MNV MPR MPS MSA 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2022-01-04 
+    Expiration Date   2022-06-30 
+    Quantity   3 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   CCD (Single Add-On) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2022-01-04 
+    Expiration Date   2022-06-30 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   HD2 (Configuration)AMG FS1 KT1 LMG NCG NVG 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2022-01-04 
+    Expiration Date   2022-06-30 
+    Quantity   19 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   HD2 (Configuration)FS1 KT1 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2022-01-04 
+    Expiration Date   2022-06-30 
+    Quantity   66 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   CAA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   CDC (Configuration) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2022-01-04 
+    Expiration Date   2022-06-30 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   CATIA V5 
+    Release   V5-6R2018 
+    Configurations&amp;Products   CCD (Single Add-On) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2022-01-04 
+    Expiration Date   2022-06-30 
+    Quantity   2 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   CATIA / ENOVIA DMU 
+    Release   V5-6R2018 
+    Configurations&amp;Products   CPR (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2022-01-04 
+    Expiration Date   2022-06-30 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   
+
+   Certificate: ICM-417B1C2B59A72F10_8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0_000F_1.LICZ   Portfolio   CATIA V5 
+    Release   V5R21 
+    Configurations&amp;Products   HD2 (Configuration)FS1 KT1 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   ICM-417B1C2B59A72F10 
+    ActivationDate   2022-01-05 
+    Expiration Date   2022-06-30 
+    Quantity   5 
+    AdditionalInformation   N/A 
+    SerialNumber   8U6R0-I7DXJ-0VPPM-QY0ZZ-B11U0 
+   

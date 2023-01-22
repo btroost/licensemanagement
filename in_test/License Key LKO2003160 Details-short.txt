@@ -1,0 +1,40 @@
+
+   Certificate: YQH-417A141F1334DB30_COXER-0J92U-67HAZ-AAO21-H0ZJF_000D_1.LICZ   Portfolio   CATIA V4
+    Release   V4R2.5
+    Configurations&amp;Products   CCC (Shareable)
+    LicenseType   SRV
+     TargetOS
+    Target ID   YQH-417A141F1334DB30
+    ActivationDate   2021-05-19
+    Expiration Date   2023-06-11
+    Quantity   1
+    AdditionalInformation   N/A
+    SerialNumber   COXER-0J92U-67HAZ-AAO21-H0ZJF
+
+
+   Certificate: YQH-417A141F1334DB30_COXER-0J92U-67HAZ-AAO21-H0ZJF_000D_1.LICZ   Portfolio   CATIA V4
+    Release   V4R2.5
+    Configurations&amp;Products   IUE (Shareable)
+    LicenseType   SRV
+     TargetOS
+    Target ID   YQH-417A141F1334DB30
+    ActivationDate   2021-05-19
+    Expiration Date   2023-06-11
+    Quantity   1
+    AdditionalInformation   N/A
+    SerialNumber   COXER-0J92U-67HAZ-AAO21-H0ZJF
+
+
+   Certificate: YQH-417A141F1334DB30_COXER-0J92U-67HAZ-AAO21-H0ZJF_000D_1.LICZ   Portfolio   CATIA V4
+    Release   V4R2.5
+    Configurations&amp;Products   RAS (Shareable)
+    LicenseType   SRV
+     TargetOS
+    Target ID   YQH-417A141F1334DB30
+    ActivationDate   2021-05-19
+    Expiration Date   2023-06-11
+    Quantity   1
+    AdditionalInformation   N/A
+    SerialNumber   COXER-0J92U-67HAZ-AAO21-H0ZJF
+
+  

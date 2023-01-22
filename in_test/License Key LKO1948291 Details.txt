@@ -1,0 +1,390 @@
+
+   Certificate: YQH-417A141F1334DB30_13W32-W0O95-O3WU2-9IG2T-GRZ8T_000F_1.LICZ   Portfolio   ENOVIA V6 
+    Release   V6R2011x 
+    Configurations&amp;Products   FCS (System) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-05-19 
+    Expiration Date   2023-06-11 
+    Quantity   4 
+    AdditionalInformation   N/A 
+    SerialNumber   13W32-W0O95-O3WU2-9IG2T-GRZ8T 
+   
+
+   Certificate: YQH-417A141F1334DB30_13W32-W0O95-O3WU2-9IG2T-GRZ8T_000F_1.LICZ   Portfolio   ENOVIA V6 
+    Release   V6R2011x 
+    Configurations&amp;Products   LIV (Configuration)CGE CHT VPM 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-05-19 
+    Expiration Date   2023-06-11 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   13W32-W0O95-O3WU2-9IG2T-GRZ8T 
+   
+
+   Certificate: YQH-417A141F1334DB30_13W32-W0O95-O3WU2-9IG2T-GRZ8T_000F_1.LICZ   Portfolio   ENOVIA V6 
+    Release   V6R2011x 
+    Configurations&amp;Products   CFE (Named User) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-05-19 
+    Expiration Date   2023-06-11 
+    Quantity   40 
+    AdditionalInformation   N/A 
+    SerialNumber   13W32-W0O95-O3WU2-9IG2T-GRZ8T 
+   
+
+   Certificate: YQH-417A141F1334DB30_13W32-W0O95-O3WU2-9IG2T-GRZ8T_000F_1.LICZ   Portfolio   ENOVIA V6 
+    Release   V6R2011x 
+    Configurations&amp;Products   DTE (System) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-05-19 
+    Expiration Date   2023-06-11 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   13W32-W0O95-O3WU2-9IG2T-GRZ8T 
+   
+
+   Certificate: YQH-417A141F1334DB30_13W32-W0O95-O3WU2-9IG2T-GRZ8T_000F_1.LICZ   Portfolio   ENOVIA V6 
+    Release   V6R2011x 
+    Configurations&amp;Products   ENG (Named User) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-05-19 
+    Expiration Date   2023-06-11 
+    Quantity   18 
+    AdditionalInformation   N/A 
+    SerialNumber   13W32-W0O95-O3WU2-9IG2T-GRZ8T 
+   
+
+   Certificate: YQH-417A141F1334DB30_13W32-W0O95-O3WU2-9IG2T-GRZ8T_000F_1.LICZ   Portfolio   ENOVIA V6 
+    Release   V6R2011x 
+    Configurations&amp;Products   LBC (Named User) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-05-19 
+    Expiration Date   2023-06-11 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   13W32-W0O95-O3WU2-9IG2T-GRZ8T 
+   
+
+   Certificate: YQH-417A141F1334DB30_13W32-W0O95-O3WU2-9IG2T-GRZ8T_000F_1.LICZ   Portfolio   ENOVIA V6 
+    Release   V6R2011x 
+    Configurations&amp;Products   RPT (Named User) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-05-19 
+    Expiration Date   2023-06-11 
+    Quantity   15 
+    AdditionalInformation   N/A 
+    SerialNumber   13W32-W0O95-O3WU2-9IG2T-GRZ8T 
+   
+
+   Certificate: YQH-417A141F1334DB30_13W32-W0O95-O3WU2-9IG2T-GRZ8T_000F_1.LICZ   Portfolio   ENOVIA V6 
+    Release   V6R2011x 
+    Configurations&amp;Products   PGE (Named User) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-05-19 
+    Expiration Date   2023-06-11 
+    Quantity   40 
+    AdditionalInformation   N/A 
+    SerialNumber   13W32-W0O95-O3WU2-9IG2T-GRZ8T 
+   
+
+   Certificate: YQH-417A141F1334DB30_13W32-W0O95-O3WU2-9IG2T-GRZ8T_000F_1.LICZ   Portfolio   ENOVIA V6 
+    Release   V6R2011x 
+    Configurations&amp;Products   LIB (Named User) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-05-19 
+    Expiration Date   2023-06-11 
+    Quantity   40 
+    AdditionalInformation   N/A 
+    SerialNumber   13W32-W0O95-O3WU2-9IG2T-GRZ8T 
+   
+
+   Certificate: YQH-417A141F1334DB30_13W32-W0O95-O3WU2-9IG2T-GRZ8T_000F_1.LICZ   Portfolio   CATIA V6 
+    Release   V6R2011x 
+    Configurations&amp;Products   TOL (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-05-19 
+    Expiration Date   2023-06-11 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   13W32-W0O95-O3WU2-9IG2T-GRZ8T 
+   
+
+   Certificate: YQH-417A141F1334DB30_13W32-W0O95-O3WU2-9IG2T-GRZ8T_000F_1.LICZ   Portfolio   ENOVIA V6 
+    Release   V6R2011x 
+    Configurations&amp;Products   RDV (Configuration) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-05-19 
+    Expiration Date   2023-06-11 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   13W32-W0O95-O3WU2-9IG2T-GRZ8T 
+   
+
+   Certificate: YQH-417A141F1334DB30_13W32-W0O95-O3WU2-9IG2T-GRZ8T_000F_1.LICZ   Portfolio   ENOVIA V6 
+    Release   V6R2013x 
+    Configurations&amp;Products   CPF (Named User) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-05-19 
+    Expiration Date   2023-06-11 
+    Quantity   50 
+    AdditionalInformation   N/A 
+    SerialNumber   13W32-W0O95-O3WU2-9IG2T-GRZ8T 
+   
+
+   Certificate: YQH-417A141F1334DB30_13W32-W0O95-O3WU2-9IG2T-GRZ8T_000F_1.LICZ   Portfolio   CATIA V6 
+    Release   V6R2011x 
+    Configurations&amp;Products   ST1 (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-05-19 
+    Expiration Date   2023-06-11 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   13W32-W0O95-O3WU2-9IG2T-GRZ8T 
+   
+
+   Certificate: YQH-417A141F1334DB30_13W32-W0O95-O3WU2-9IG2T-GRZ8T_000F_1.LICZ   Portfolio   ENOVIA V6 
+    Release   V6R2013x 
+    Configurations&amp;Products   CD5 (Named User) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-05-19 
+    Expiration Date   2023-06-11 
+    Quantity   30 
+    AdditionalInformation   N/A 
+    SerialNumber   13W32-W0O95-O3WU2-9IG2T-GRZ8T 
+   
+
+   Certificate: YQH-417A141F1334DB30_13W32-W0O95-O3WU2-9IG2T-GRZ8T_000F_1.LICZ   Portfolio   ENOVIA V6 
+    Release   V6R2013x 
+    Configurations&amp;Products   DEC (Named User) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-05-19 
+    Expiration Date   2023-06-11 
+    Quantity   41 
+    AdditionalInformation   N/A 
+    SerialNumber   13W32-W0O95-O3WU2-9IG2T-GRZ8T 
+   
+
+   Certificate: YQH-417A141F1334DB30_13W32-W0O95-O3WU2-9IG2T-GRZ8T_000F_1.LICZ   Portfolio   CATIA V6 
+    Release   V6R2013x 
+    Configurations&amp;Products   FSR (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-05-19 
+    Expiration Date   2023-06-11 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   13W32-W0O95-O3WU2-9IG2T-GRZ8T 
+   
+
+   Certificate: YQH-417A141F1334DB30_13W32-W0O95-O3WU2-9IG2T-GRZ8T_000F_1.LICZ   Portfolio   ENOVIA V6 
+    Release   V6R2013x 
+    Configurations&amp;Products   LIV (Configuration)VMX VPM VSC 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-06-02 
+    Expiration Date   2023-06-11 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   13W32-W0O95-O3WU2-9IG2T-GRZ8T 
+   
+
+   Certificate: YQH-417A141F1334DB30_13W32-W0O95-O3WU2-9IG2T-GRZ8T_000F_1.LICZ   Portfolio   ENOVIA V6 
+    Release   V6R2013x 
+    Configurations&amp;Products   CPF (Named User) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-06-02 
+    Expiration Date   2023-06-11 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   13W32-W0O95-O3WU2-9IG2T-GRZ8T 
+   
+
+   Certificate: YQH-417A141F1334DB30_13W32-W0O95-O3WU2-9IG2T-GRZ8T_000F_1.LICZ   Portfolio   ENOVIA V6 
+    Release   V6R2011x 
+    Configurations&amp;Products   CPF (Named User) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-06-02 
+    Expiration Date   2023-06-11 
+    Quantity   42 
+    AdditionalInformation   N/A 
+    SerialNumber   13W32-W0O95-O3WU2-9IG2T-GRZ8T 
+   
+
+   Certificate: YQH-417A141F1334DB30_13W32-W0O95-O3WU2-9IG2T-GRZ8T_000F_1.LICZ   Portfolio   ENOVIA V6 
+    Release   V6R2013x 
+    Configurations&amp;Products   LIV (Configuration)CGE CHT DASMS-BASE MDE SUR VPM 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-12-16 
+    Expiration Date   2022-12-31 
+    Quantity   4 
+    AdditionalInformation   N/A 
+    SerialNumber   13W32-W0O95-O3WU2-9IG2T-GRZ8T 
+   
+
+   Certificate: YQH-417A141F1334DB30_13W32-W0O95-O3WU2-9IG2T-GRZ8T_000F_1.LICZ   Portfolio   ENOVIA V6 
+    Release   V6R2013x 
+    Configurations&amp;Products   LIV (Configuration)AFE CGE CHT DASMS-BASE DVA MDE SFE SUR VPM 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-12-16 
+    Expiration Date   2022-12-31 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   13W32-W0O95-O3WU2-9IG2T-GRZ8T 
+   
+
+   Certificate: YQH-417A141F1334DB30_13W32-W0O95-O3WU2-9IG2T-GRZ8T_000F_1.LICZ   Portfolio   ENOVIA V6 
+    Release   V6R2013x 
+    Configurations&amp;Products   LIV (Configuration)AFE CGE CHT DASMS-AF DVA MDE SFE STA SUR VPM 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-12-16 
+    Expiration Date   2022-12-31 
+    Quantity   2 
+    AdditionalInformation   N/A 
+    SerialNumber   13W32-W0O95-O3WU2-9IG2T-GRZ8T 
+   
+
+   Certificate: YQH-417A141F1334DB30_13W32-W0O95-O3WU2-9IG2T-GRZ8T_000F_1.LICZ   Portfolio   ENOVIA V6 
+    Release   V6R2013x 
+    Configurations&amp;Products   LIV (Configuration)CGE CHT DASMS-BASE EHD FSR MDE SUR VPM 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   YQH-417A141F1334DB30 
+    ActivationDate   2021-12-16 
+    Expiration Date   2022-12-31 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   13W32-W0O95-O3WU2-9IG2T-GRZ8T 
+   
+
+   Certificate: QKM-419C1C2B59A73030_6X76M-8QNPO-FOKMA-ZRTOY-J2YNS_000B_1.LICZ   Portfolio   CATIA V6 
+    Release   V6R2013x 
+    Configurations&amp;Products   FSR (Shareable) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2020-10-18 
+    Expiration Date   2022-06-30 
+    Quantity   1 
+    AdditionalInformation   N/A 
+    SerialNumber   6X76M-8QNPO-FOKMA-ZRTOY-J2YNS 
+   
+
+   Certificate: QKM-419C1C2B59A73030_6X76M-8QNPO-FOKMA-ZRTOY-J2YNS_000B_1.LICZ   Portfolio   ENOVIA V6 
+    Release   V6R2013x 
+    Configurations&amp;Products   LIB (Named User) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2021-10-14 
+    Expiration Date   2022-10-17 
+    Quantity   2 
+    AdditionalInformation   N/A 
+    SerialNumber   6X76M-8QNPO-FOKMA-ZRTOY-J2YNS 
+   
+
+   Certificate: QKM-419C1C2B59A73030_6X76M-8QNPO-FOKMA-ZRTOY-J2YNS_000B_1.LICZ   Portfolio   ENOVIA V6 
+    Release   V6R2013x 
+    Configurations&amp;Products   PGE (Named User) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2021-10-14 
+    Expiration Date   2022-10-17 
+    Quantity   2 
+    AdditionalInformation   N/A 
+    SerialNumber   6X76M-8QNPO-FOKMA-ZRTOY-J2YNS 
+   
+
+   Certificate: QKM-419C1C2B59A73030_6X76M-8QNPO-FOKMA-ZRTOY-J2YNS_000B_1.LICZ   Portfolio   ENOVIA V6 
+    Release   V6R2013x 
+    Configurations&amp;Products   CPF (Named User) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2021-10-14 
+    Expiration Date   2022-10-17 
+    Quantity   2 
+    AdditionalInformation   N/A 
+    SerialNumber   6X76M-8QNPO-FOKMA-ZRTOY-J2YNS 
+   
+
+   Certificate: QKM-419C1C2B59A73030_6X76M-8QNPO-FOKMA-ZRTOY-J2YNS_000B_1.LICZ   Portfolio   ENOVIA V6 
+    Release   V6R2013x 
+    Configurations&amp;Products   CFE (Named User) 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2021-10-14 
+    Expiration Date   2022-10-17 
+    Quantity   2 
+    AdditionalInformation   N/A 
+    SerialNumber   6X76M-8QNPO-FOKMA-ZRTOY-J2YNS 
+   
+
+   Certificate: QKM-419C1C2B59A73030_6X76M-8QNPO-FOKMA-ZRTOY-J2YNS_000B_1.LICZ   Portfolio   ENOVIA V6 
+    Release   V6R2013x 
+    Configurations&amp;Products   LIV (Configuration)CGE CHT DASMS-BASE MDE SUR VPM 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2021-10-14 
+    Expiration Date   2022-10-17 
+    Quantity   2 
+    AdditionalInformation   N/A 
+    SerialNumber   6X76M-8QNPO-FOKMA-ZRTOY-J2YNS 
+   
+
+   Certificate: QKM-419C1C2B59A73030_6X76M-8QNPO-FOKMA-ZRTOY-J2YNS_000B_1.LICZ   Portfolio   ENOVIA V6 
+    Release   V6R2013x 
+    Configurations&amp;Products   LIV (Configuration)AFE CGE CHT DASMS-BASE DVA MDE SFE SUR VPM 
+    LicenseType   SRV 
+     TargetOS    
+    Target ID   QKM-419C1C2B59A73030 
+    ActivationDate   2021-12-16 
+    Expiration Date   2022-12-31 
+    Quantity   4 
+    AdditionalInformation   N/A 
+    SerialNumber   6X76M-8QNPO-FOKMA-ZRTOY-J2YNS 
+   
