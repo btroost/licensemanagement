@@ -5,50 +5,15 @@ import os
 import codecs
 import io
 
-def code2():
-    outputfile = open("out/results_dslsprd-2022-11-09.csv", "w")
-# Get the list of all files and directories
-#    path = "C://Users//Vanshi//Desktop//gfg"
-    path = "inprd"
-    dir_list = os.listdir(path)
-#    print("Files and directories in '", path, "' :")
-    # prints all files
-#    print(dir_list)
-    for file in dir_list:
-#        print (file)
-
-#    filename = "LicenseServer20221031074122.log"
-        file = "inprd/"+file
-#    LicenseServer20221107083922
-#LicenseServer20221031074122.log
-        f = open(file, "rt")
-#    data=[]
-        row=[]
-        for x in f:
-            #    print(x)
-            if (x.find("Grant!!") > 0):
-                q=x.rpartition("Grant!!")
-                row.append(q[1].strip())
-                r=q[2].rsplit("!")
-                outputfile.write(r[0]+","+r[6]+","+r[7]+","+r[8]+"\n")
-
-    outputfile.close()
-    print("Finished")
-    #        print(r[7])
-    #        print(r[8])
-
-    #    if (x.find("Detachment") > 0):
-    #        print(x)
-    #    if (x.find("TimeOut") > 0):
-    #        print(x)
-
 def code3():
+    #This code reeds the license key and returns a list per trigram.
+    print("Started")
+    
     file = "License Key LKO2109741 Details.txt"
-    f = open(file, "rt")
+    f = open("in_test/"+file, "rt")
     data=[]
-#    row=["Config"+";Quantity" + ";TargetID"]
-#    data.append(row)
     row=[]
+
     for x in f:
         if x.find("Configurations") > 0:
             q=x.rpartition("Products")
@@ -60,15 +25,11 @@ def code3():
             q=x.rpartition("Target ID")
             row.append(q[2].strip())
         if x.find("SerialNumber") > 0:
-        #    row.append("newline")
             data.append(row)
             row=[]
     f.close()
 
-#    for i in data:
-#        print (i[0]+";"+i[1])
-
-    outputfile = open(file+"_out.csv", "w")
+    outputfile = open("out/"+file+"_out.csv", "w")
     for row in data:
         outputfile.write(row[0])
         outputfile.write(";")
@@ -77,10 +38,12 @@ def code3():
         outputfile.write(row[2])
         outputfile.write("\n")
     outputfile.close()
-
+    print("Finished")
+    print ("Outputfile: " + outputfile.name)
 
 def code4():
     # This code reads a series of DSLS logfiles and returns structured usage data
+
     path = "in_2312"
     outputfile = open("out/output_"+path+".csv", "w")
     sep = ";"

@@ -14,13 +14,17 @@ def index():
 
 with app.test_request_context():
     x = datetime.datetime.now()
-#    print(x)
 
-#    c1.code1()
+    #############################################
+    # code to combine various license files
+    #c1.code1()
+    #############################################
 
-#alternative code:
-#    c2.code2()
-    #code 2 leest een serie logfiles in en schrijft deze weg als csv files
-    # met kolommen als computernaam en gebruikers key
+    #alternative code:
+
+    #This code reeds the license key and returns a list per trigram.
+    #c2.code3()
+
+    # This code reads a series of DSLS logfiles and returns structured usage data
+    # Return is a csv files
     c2.code4()
-    #C3 leest en serie logfiles en checkt het gebruik per gebruikersnaam
